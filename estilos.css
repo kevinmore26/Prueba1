@@ -1,0 +1,43 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(186,86%,17%);
+    font-family: 'Do Hyeon', sans-serif;
+    color: white;
+}
+header{
+    text-align: center;
+}
+img
+{
+    width: 75%;
+   
+    position:absolute;
+    top: 120px;
+    left: 100px;
+    
+}
+.fall
+{
+    margin: 0 auto;
+}
+.descripcion
+{
+    text-align: center;}
+.option
+{
+    text-align: center;
+}
+ul>li>a
+{
+    text-align: center;
+}
+.texto
+{
+    text-align: center;
+}
